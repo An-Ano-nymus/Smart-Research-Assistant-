@@ -42,8 +42,8 @@ An intelligent document assistant that allows users to upload PDF/TXT files and 
 
 ```bash
 # 1. Clone repo
-git clone https://github.com/yourusername/smart-doc-assistant.git
-cd smart-doc-assistant/backend
+git clone https://github.com/An-Ano-nymus/Smart-Research-Assistant-.git
+cd Smart-Research-Assistant/backend
 
 # 2. Create virtual environment
 python -m venv venv
