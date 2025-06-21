@@ -15,7 +15,31 @@ An intelligent document assistant that allows users to upload PDF/TXT files and 
 - 🧭 Fully responsive React frontend
 
 ---
+### 📸 Project Screenshots
 
+![Upload Interface](https://github.com/An-Ano-nymus/Smart-Research-Assistant-/blob/main/IMAGES%20OF%20PROJECT/Screenshot%202025-06-21%20234259.png?raw=true)
+
+![Ask Anything Interface](https://github.com/An-Ano-nymus/Smart-Research-Assistant-/blob/main/IMAGES%20OF%20PROJECT/Screenshot%202025-06-21%20234334.png?raw=true)
+
+![Answer & Justification Display](https://github.com/An-Ano-nymus/Smart-Research-Assistant-/blob/main/IMAGES%20OF%20PROJECT/Screenshot%202025-06-21%20234704.png?raw=true)
+
+![Follow-up Question Feature](https://github.com/An-Ano-nymus/Smart-Research-Assistant-/blob/main/IMAGES%20OF%20PROJECT/Screenshot%202025-06-21%20234730.png?raw=true)
+
+![PDF Preview](https://github.com/An-Ano-nymus/Smart-Research-Assistant-/blob/main/IMAGES%20OF%20PROJECT/Screenshot%202025-06-21%20234808.png?raw=true)
+
+![Summary Feature](https://github.com/An-Ano-nymus/Smart-Research-Assistant-/blob/main/IMAGES%20OF%20PROJECT/Screenshot%202025-06-21%20234821.png?raw=true)
+
+![Dark Mode Nav](https://github.com/An-Ano-nymus/Smart-Research-Assistant-/blob/main/IMAGES%20OF%20PROJECT/Screenshot%202025-06-21%20234852.png?raw=true)
+
+![Navigation](https://github.com/An-Ano-nymus/Smart-Research-Assistant-/blob/main/IMAGES%20OF%20PROJECT/Screenshot%202025-06-21%20234916.png?raw=true)
+
+![Upload Finished](https://github.com/An-Ano-nymus/Smart-Research-Assistant-/blob/main/IMAGES%20OF%20PROJECT/Screenshot%202025-06-21%20234940.png?raw=true)
+
+![Multiple Answers View](https://github.com/An-Ano-nymus/Smart-Research-Assistant-/blob/main/IMAGES%20OF%20PROJECT/Screenshot%202025-06-21%20234950.png?raw=true)
+
+![Ask More](https://github.com/An-Ano-nymus/Smart-Research-Assistant-/blob/main/IMAGES%20OF%20PROJECT/Screenshot%202025-06-21%20235135.png?raw=true)
+
+---
 ## 🧰 Tech Stack
 
 | Layer      | Technology            |
@@ -115,14 +139,14 @@ smart-doc-assistant/
 │
 ├── backend/                  # Flask app
 │   ├── app.py
-│   ├── utils/ocr.py
-│   └── routes/upload, ask, challenge
+│   ├── utils
+│   
 │
 ├── frontend/                 # React app
 │   ├── src/
 │   │   ├── components/
 │   │   ├── context/DocumentContext.js
-│   │   └── api/index.js
+│   │   └── api.js
 │   └── tailwind.config.js
 │
 ├── README.md
