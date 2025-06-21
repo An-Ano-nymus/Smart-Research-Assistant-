@@ -146,11 +146,6 @@ smart-doc-assistant/
 
 Pull requests welcome! Please open an issue first to discuss major changes.
 
----
-
-## 📜 License
-
-[MIT](LICENSE)
 
 ---
 
