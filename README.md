@@ -15,6 +15,13 @@ An intelligent document assistant that allows users to upload PDF/TXT files and 
 - 🧭 Fully responsive React frontend
 
 ---
+## 🎬 Demo Video
+
+[![Watch the Demo](https://img.youtube.com/vi/nDOeUUqbM6o/hqdefault.jpg)](https://youtu.be/nDOeUUqbM6o)
+
+Click the thumbnail above to watch the full walkthrough of the **Smart Research Assistant** in action!
+
+---
 ### 📸 Project Screenshots
 
 ![Upload Interface](https://github.com/An-Ano-nymus/Smart-Research-Assistant-/blob/main/IMAGES%20OF%20PROJECT/Screenshot%202025-06-21%20234259.png?raw=true)
